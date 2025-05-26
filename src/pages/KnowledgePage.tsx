@@ -110,7 +110,7 @@ const KnowledgePage = () => {
         <div className="p-6 border-b border-gray-200">
           <Link to="/" className="flex items-center">
             <Bot size={24} className="text-blue-600 mr-2" />
-            <span className="text-xl font-bold text-gray-900">AI Assistant</span>
+            <span className="text-xl font-bold text-gray-900">Build Chat AI Assistant</span>
           </Link>
         </div>
         
