@@ -1,0 +1,94 @@
+{
+  "welcome": {
+    "title": "Welcome to AI Chat Assistant",
+    "subtitle": "Create your own AI chatbot in minutes"
+  },
+  "navigation": {
+    "signup": "Sign Up",
+    "login": "Login"
+  },
+  "language": {
+    "select": "Select Language"
+  },
+  "form": {
+    "website": "Website Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "submit": "Continue",
+    "websitePlaceholder": "Enter your website name",
+    "emailPlaceholder": "Enter your email address",
+    "phonePlaceholder": "Enter your phone number"
+  },
+  "validation": {
+    "websiteRequired": "Website name is required",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Please enter a valid email",
+    "phoneRequired": "Phone number is required",
+    "phoneInvalid": "Please enter a valid phone number"
+  },
+  "otp": {
+    "title": "Verify Your Identity",
+    "emailCode": "Email Verification Code",
+    "phoneCode": "Phone Verification Code",
+    "submit": "Verify & Create Chatbot",
+    "resend": "Resend Code"
+  },
+  "subscription": {
+    "title": "Choose Your Plan",
+    "basic": {
+      "title": "Basic",
+      "price": "$19/month",
+      "description": "Perfect for small websites",
+      "features": [
+        "1000 queries/month",
+        "Basic support",
+        "1 admin user",
+        "Email support"
+      ]
+    },
+    "standard": {
+      "title": "Standard",
+      "price": "$49/month",
+      "description": "Great for growing businesses",
+      "features": [
+        "5000 queries/month",
+        "Priority support",
+        "5 admin users",
+        "Phone & email support"
+      ]
+    },
+    "professional": {
+      "title": "Professional",
+      "price": "$99/month",
+      "description": "For established businesses",
+      "features": [
+        "15000 queries/month",
+        "Premium support",
+        "10 admin users",
+        "24/7 support"
+      ]
+    },
+    "enterprise": {
+      "title": "Enterprise",
+      "price": "Contact Us",
+      "description": "Custom solutions for large organizations",
+      "features": [
+        "Unlimited queries",
+        "Dedicated account manager",
+        "Unlimited admin users",
+        "Custom integration"
+      ]
+    },
+    "integration": "Note: Customer is responsible for integration with their website.",
+    "select": "Select Plan",
+    "terms": "Terms & Conditions"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome, {{name}}",
+    "queries": "AI Queries",
+    "subscription": "Subscription Usage",
+    "noData": "Integration Pending",
+    "noDataDesc": "Your chatbot is ready but not yet integrated. Please follow the integration guide."
+  }
+}

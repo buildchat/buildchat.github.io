@@ -1,0 +1,94 @@
+{
+  "welcome": {
+    "title": "欢迎使用 AI 聊天助手",
+    "subtitle": "几分钟内创建您自己的人工智能聊天机器人"
+  },
+  "navigation": {
+    "signup": "注册",
+    "login": "登录"
+  },
+  "language": {
+    "select": "选择语言"
+  },
+  "form": {
+    "website": "网站名称",
+    "email": "电子邮件地址",
+    "phone": "电话号码",
+    "submit": "继续",
+    "websitePlaceholder": "输入您的网站名称",
+    "emailPlaceholder": "输入您的电子邮件地址",
+    "phonePlaceholder": "输入您的电话号码"
+  },
+  "validation": {
+    "websiteRequired": "网站名称为必填项",
+    "emailRequired": "电子邮件为必填项",
+    "emailInvalid": "请输入有效的电子邮件",
+    "phoneRequired": "电话号码为必填项",
+    "phoneInvalid": "请输入有效的电话号码"
+  },
+  "otp": {
+    "title": "验证您的身份",
+    "emailCode": "电子邮件验证码",
+    "phoneCode": "手机验证码",
+    "submit": "验证并创建聊天机器人",
+    "resend": "重新发送验证码"
+  },
+  "subscription": {
+    "title": "选择您的计划",
+    "basic": {
+      "title": "基础版",
+      "price": "¥129/月",
+      "description": "适合小型网站",
+      "features": [
+        "每月1000次查询",
+        "基础支持",
+        "1个管理员用户",
+        "电子邮件支持"
+      ]
+    },
+    "standard": {
+      "title": "标准版",
+      "price": "¥329/月",
+      "description": "适合成长中的企业",
+      "features": [
+        "每月5000次查询",
+        "优先支持",
+        "5个管理员用户",
+        "电话和电子邮件支持"
+      ]
+    },
+    "professional": {
+      "title": "专业版",
+      "price": "¥659/月",
+      "description": "适合成熟企业",
+      "features": [
+        "每月15000次查询",
+        "高级支持",
+        "10个管理员用户",
+        "24/7全天候支持"
+      ]
+    },
+    "enterprise": {
+      "title": "企业版",
+      "price": "联系我们",
+      "description": "为大型组织提供定制解决方案",
+      "features": [
+        "无限查询",
+        "专属客户经理",
+        "无限管理员用户",
+        "定制集成"
+      ]
+    },
+    "integration": "注意：客户负责与其网站的集成。",
+    "select": "选择计划",
+    "terms": "条款和条件"
+  },
+  "dashboard": {
+    "title": "仪表板",
+    "welcome": "欢迎，{{name}}",
+    "queries": "AI 查询",
+    "subscription": "订阅使用情况",
+    "noData": "集成待处理",
+    "noDataDesc": "您的聊天机器人已准备就绪，但尚未集成。请按照集成指南操作。"
+  }
+}

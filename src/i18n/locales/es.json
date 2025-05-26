@@ -1,0 +1,94 @@
+{
+  "welcome": {
+    "title": "Bienvenido a AI Chat Assistant",
+    "subtitle": "Crea tu propio chatbot de IA en minutos"
+  },
+  "navigation": {
+    "signup": "Registrarse",
+    "login": "Iniciar Sesión"
+  },
+  "language": {
+    "select": "Seleccionar Idioma"
+  },
+  "form": {
+    "website": "Nombre del Sitio Web",
+    "email": "Correo Electrónico",
+    "phone": "Número de Teléfono",
+    "submit": "Continuar",
+    "websitePlaceholder": "Ingrese el nombre de su sitio web",
+    "emailPlaceholder": "Ingrese su correo electrónico",
+    "phonePlaceholder": "Ingrese su número de teléfono"
+  },
+  "validation": {
+    "websiteRequired": "El nombre del sitio web es requerido",
+    "emailRequired": "El correo electrónico es requerido",
+    "emailInvalid": "Por favor ingrese un correo electrónico válido",
+    "phoneRequired": "El número de teléfono es requerido",
+    "phoneInvalid": "Por favor ingrese un número de teléfono válido"
+  },
+  "otp": {
+    "title": "Verifique Su Identidad",
+    "emailCode": "Código de Verificación por Correo",
+    "phoneCode": "Código de Verificación por Teléfono",
+    "submit": "Verificar y Crear Chatbot",
+    "resend": "Reenviar Código"
+  },
+  "subscription": {
+    "title": "Elija Su Plan",
+    "basic": {
+      "title": "Básico",
+      "price": "$19/mes",
+      "description": "Perfecto para sitios web pequeños",
+      "features": [
+        "1000 consultas/mes",
+        "Soporte básico",
+        "1 usuario administrador",
+        "Soporte por correo electrónico"
+      ]
+    },
+    "standard": {
+      "title": "Estándar",
+      "price": "$49/mes",
+      "description": "Ideal para negocios en crecimiento",
+      "features": [
+        "5000 consultas/mes",
+        "Soporte prioritario",
+        "5 usuarios administradores",
+        "Soporte por teléfono y correo"
+      ]
+    },
+    "professional": {
+      "title": "Profesional",
+      "price": "$99/mes",
+      "description": "Para negocios establecidos",
+      "features": [
+        "15000 consultas/mes",
+        "Soporte premium",
+        "10 usuarios administradores",
+        "Soporte 24/7"
+      ]
+    },
+    "enterprise": {
+      "title": "Empresarial",
+      "price": "Contáctenos",
+      "description": "Soluciones personalizadas para grandes organizaciones",
+      "features": [
+        "Consultas ilimitadas",
+        "Gerente de cuenta dedicado",
+        "Usuarios administradores ilimitados",
+        "Integración personalizada"
+      ]
+    },
+    "integration": "Nota: El cliente es responsable de la integración con su sitio web.",
+    "select": "Seleccionar Plan",
+    "terms": "Términos y Condiciones"
+  },
+  "dashboard": {
+    "title": "Panel de Control",
+    "welcome": "Bienvenido, {{name}}",
+    "queries": "Consultas de IA",
+    "subscription": "Uso de Suscripción",
+    "noData": "Integración Pendiente",
+    "noDataDesc": "Su chatbot está listo pero aún no está integrado. Por favor siga la guía de integración."
+  }
+}

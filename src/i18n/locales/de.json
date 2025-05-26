@@ -1,0 +1,94 @@
+{
+  "welcome": {
+    "title": "Willkommen bei AI Chat Assistant",
+    "subtitle": "Erstellen Sie Ihren eigenen KI-Chatbot in Minuten"
+  },
+  "navigation": {
+    "signup": "Registrieren",
+    "login": "Anmelden"
+  },
+  "language": {
+    "select": "Sprache auswählen"
+  },
+  "form": {
+    "website": "Website-Name",
+    "email": "E-Mail-Adresse",
+    "phone": "Telefonnummer",
+    "submit": "Weiter",
+    "websitePlaceholder": "Geben Sie Ihren Website-Namen ein",
+    "emailPlaceholder": "Geben Sie Ihre E-Mail-Adresse ein",
+    "phonePlaceholder": "Geben Sie Ihre Telefonnummer ein"
+  },
+  "validation": {
+    "websiteRequired": "Website-Name ist erforderlich",
+    "emailRequired": "E-Mail ist erforderlich",
+    "emailInvalid": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+    "phoneRequired": "Telefonnummer ist erforderlich",
+    "phoneInvalid": "Bitte geben Sie eine gültige Telefonnummer ein"
+  },
+  "otp": {
+    "title": "Verifizieren Sie Ihre Identität",
+    "emailCode": "E-Mail-Bestätigungscode",
+    "phoneCode": "Telefon-Bestätigungscode",
+    "submit": "Verifizieren & Chatbot erstellen",
+    "resend": "Code erneut senden"
+  },
+  "subscription": {
+    "title": "Wählen Sie Ihren Plan",
+    "basic": {
+      "title": "Basic",
+      "price": "19€/Monat",
+      "description": "Perfekt für kleine Websites",
+      "features": [
+        "1000 Anfragen/Monat",
+        "Basis-Support",
+        "1 Admin-Benutzer",
+        "E-Mail-Support"
+      ]
+    },
+    "standard": {
+      "title": "Standard",
+      "price": "49€/Monat",
+      "description": "Ideal für wachsende Unternehmen",
+      "features": [
+        "5000 Anfragen/Monat",
+        "Prioritäts-Support",
+        "5 Admin-Benutzer",
+        "Telefon- & E-Mail-Support"
+      ]
+    },
+    "professional": {
+      "title": "Professional",
+      "price": "99€/Monat",
+      "description": "Für etablierte Unternehmen",
+      "features": [
+        "15000 Anfragen/Monat",
+        "Premium-Support",
+        "10 Admin-Benutzer",
+        "24/7 Support"
+      ]
+    },
+    "enterprise": {
+      "title": "Enterprise",
+      "price": "Kontaktieren Sie uns",
+      "description": "Maßgeschneiderte Lösungen für große Organisationen",
+      "features": [
+        "Unbegrenzte Anfragen",
+        "Dedizierter Account Manager",
+        "Unbegrenzte Admin-Benutzer",
+        "Maßgeschneiderte Integration"
+      ]
+    },
+    "integration": "Hinweis: Der Kunde ist für die Integration mit seiner Website verantwortlich.",
+    "select": "Plan auswählen",
+    "terms": "Allgemeine Geschäftsbedingungen"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Willkommen, {{name}}",
+    "queries": "KI-Anfragen",
+    "subscription": "Abonnementnutzung",
+    "noData": "Integration ausstehend",
+    "noDataDesc": "Ihr Chatbot ist bereit, aber noch nicht integriert. Bitte folgen Sie der Integrationsanleitung."
+  }
+}
